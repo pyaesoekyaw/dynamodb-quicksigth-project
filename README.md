@@ -19,7 +19,7 @@ Here’s a quick guide to navigate this repository:
    - View screenshots of my AWS console setup and configurations: [Screenshots Folder](https://github.com/pyaesoekyaw/dynamodb-quicksigth-project/tree/main/screenshots)
 
 ### 2. **IAM Policies**
-   - Explore the IAM policies I’ve used for my projects: [IAM Policies Folder]([./iam-policies](https://github.com/pyaesoekyaw/dynamodb-quicksigth-project/tree/main/iam_policies)
+   - Explore the IAM policies I’ve used for my projects: [IAM Policies Folder](https://github.com/pyaesoekyaw/dynamodb-quicksigth-project/tree/main/iam_policies)
 
 ### 3. **Setup Instructions**
    - Step-by-step guide to set up AWS resources: [Setup Instructions](https://github.com/pyaesoekyaw/dynamodb-quicksigth-project/tree/main/project_setup_&_cleanup)
