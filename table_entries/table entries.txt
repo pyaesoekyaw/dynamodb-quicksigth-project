@@ -1,6 +1,6 @@
 [
   {
-    "course_id": {"N": "1"},
+    "course_id": {"S": "1"},
     "course_name": {"S": "Python for Beginners"},
     "instructor": {"S": "John Doe"},
     "platform": {"S": "Udemy"},
@@ -12,7 +12,7 @@
     "release_date": {"S": "2023-01-15"}
   },
   {
-    "course_id": {"N": "2"},
+    "course_id": {"S": "2"},
     "course_name": {"S": "Data Science Essentials"},
     "instructor": {"S": "Jane Smith"},
     "platform": {"S": "Coursera"},
@@ -24,7 +24,7 @@
     "release_date": {"S": "2022-11-10"}
   },
   {
-    "course_id": {"N": "3"},
+    "course_id": {"S": "3"},
     "course_name": {"S": "Machine Learning Basics"},
     "instructor": {"S": "Andrew Ng"},
     "platform": {"S": "Coursera"},
@@ -36,7 +36,7 @@
     "release_date": {"S": "2021-09-01"}
   },
   {
-    "course_id": {"N": "4"},
+    "course_id": {"S": "4"},
     "course_name": {"S": "Web Development Bootcamp"},
     "instructor": {"S": "Colt Steele"},
     "platform": {"S": "Udemy"},
@@ -48,7 +48,7 @@
     "release_date": {"S": "2023-03-20"}
   },
   {
-    "course_id": {"N": "5"},
+    "course_id": {"S": "5"},
     "course_name": {"S": "Digital Marketing 101"},
     "instructor": {"S": "Google Digital Garage"},
     "platform": {"S": "Google"},
@@ -60,7 +60,7 @@
     "release_date": {"S": "2022-05-05"}
   },
   {
-    "course_id": {"N": "6"},
+    "course_id": {"S": "6"},
     "course_name": {"S": "Advanced JavaScript"},
     "instructor": {"S": "Kyle Simpson"},
     "platform": {"S": "Frontend Masters"},
@@ -72,7 +72,7 @@
     "release_date": {"S": "2023-07-01"}
   },
   {
-    "course_id": {"N": "7"},
+    "course_id": {"S": "7"},
     "course_name": {"S": "Cybersecurity Fundamentals"},
     "instructor": {"S": "Mike Chapple"},
     "platform": {"S": "LinkedIn Learning"},
@@ -84,7 +84,7 @@
     "release_date": {"S": "2023-02-14"}
   },
   {
-    "course_id": {"N": "8"},
+    "course_id": {"S": "8"},
     "course_name": {"S": "React Native for Beginners"},
     "instructor": {"S": "Maximilian Schwarzmüller"},
     "platform": {"S": "Udemy"},
@@ -96,7 +96,7 @@
     "release_date": {"S": "2023-05-10"}
   },
   {
-    "course_id": {"N": "9"},
+    "course_id": {"S": "9"},
     "course_name": {"S": "Cloud Computing Basics"},
     "instructor": {"S": "AWS Training"},
     "platform": {"S": "AWS"},
@@ -108,7 +108,7 @@
     "release_date": {"S": "2022-12-01"}
   },
   {
-    "course_id": {"N": "10"},
+    "course_id": {"S": "10"},
     "course_name": {"S": "UI/UX Design Fundamentals"},
     "instructor": {"S": "Sarah Drasner"},
     "platform": {"S": "Pluralsight"},
