@@ -7,8 +7,8 @@ Hi there! 👋 I'm Mg Pyae, an aspiring cloud enthusiast exploring AWS services.
 ## About Me
 - **Name**: Mg Pyae Soe Kyaw
 - **Interests**: Cloud Computing, DevOps
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/pyae-soe-kyaw-2a9962302/)
-- **GitHub**: [GitHub](https://github.com/pyaesoekyaw)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pyae-soe-kyaw-2a9962302/) <br>
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-lightgrey?style=flat&logo=github)](https://github.com/pyaesoekyaw)
 
 ---
 
