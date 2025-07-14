@@ -1,153 +1,86 @@
 {
-  "studentid": {
-    "S": "1"
-  },
-  "Computer_science": {
-    "N": "75"
-  },
-  "English": {
-    "N": "80"
-  },
-  "Intership": {
-    "N": "40"
-  },
-  "Join_date": {
-    "S": "2024-01-15"
-  },
-  "Mathematic": {
-    "N": "90"
-  },
-  "Myanmar": {
-    "N": "48"
-  },
-  "Networking": {
-    "N": "99"
-  },
-  "Operating_System": {
-    "N": "64"
-  },
-  "Student_name": {
-    "S": "Pyae Kkyaw"
+  {
+    "studentid": { "S": "1"},
+    "Student_name": {"S": "Uzumaki Naruto"},
+    "Computer_science": {"N": "75"},
+    "Myanmar": {"N": "48"},
+    "English": {"N": "80"},
+    "Intership": {"N": "40"},
+    "Mathematic": {"N": "90"},
+    "Networking": {"N": "99"},
+    "Operating_System": {"N": "64"},
+    "Join_date": {"S": "2024-01-15"}
+  }
+  {
+    "studentid": { "S": "2"},
+    "Student_name": {"S": "Uchiha Sasuke"},
+    "Computer_science": {"N": "88"},
+    "Myanmar": {"N": "76"},
+    "English": {"N": "90"},
+    "Intership": {"N": "56"},
+    "Mathematic": {"N": "76"},
+    "Networking": {"N": "90"},
+    "Operating_System": {"N": "70"},
+    "Join_date": {"S": "2024-03-9"}
+  }
+  {
+    "studentid": { "S": "3"},
+    "Student_name": {"S": "Sakura"},
+    "Computer_science": {"N": "54"},
+    "Myanmar": {"N": "78"},
+    "English": {"N": "70"},
+    "Intership": {"N": "50"},
+    "Mathematic": {"N": "70"},
+    "Networking": {"N": "59"},
+    "Operating_System": {"N": "94"},
+    "Join_date": {"S": "2024-04-6"}
+  }
+  {
+    "studentid": { "S": "4"},
+    "Student_name": {"S": "Kakashi"},
+    "Computer_science": {"N": "88"},
+    "Myanmar": {"N": "79"},
+    "English": {"N": "87"},
+    "Intership": {"N": "80"},
+    "Mathematic": {"N": "94"},
+    "Networking": {"N": "86"},
+    "Operating_System": {"N": "94"},
+    "Join_date": {"S": "2016-12-1"}
+  }
+  {
+    "studentid": { "S": "5"},
+    "Student_name": {"S": "Uchiha Madara"},
+    "Computer_science": {"N": "100"},
+    "Myanmar": {"N": "99"},
+    "English": {"N": "95"},
+    "Intership": {"N": "80"},
+    "Mathematic": {"N": "98"},
+    "Networking": {"N": "96"},
+    "Operating_System": {"N": "94"},
+    "Join_date": {"S": "2011-01-4"}
+  }
+  {
+    "studentid": { "S": "6"},
+    "Student_name": {"S": "Senji Hashirama"},
+    "Computer_science": {"N": "99"},
+    "Myanmar": {"N": "98"},
+    "English": {"N": "97"},
+    "Intership": {"N": "90"},
+    "Mathematic": {"N": "96"},
+    "Networking": {"N": "94"},
+    "Operating_System": {"N": "92"},
+    "Join_date": {"S": "2011-01-3"}
+  }
+  {
+    "studentid": { "S": "7"},
+    "Student_name": {"S": "Ostestsuki Kagura"},
+    "Computer_science": {"N": "100"},
+    "Myanmar": {"N": "100"},
+    "English": {"N": "100"},
+    "Intership": {"N": "100"},
+    "Mathematic": {"N": "99"},
+    "Networking": {"N": "98"},
+    "Operating_System": {"N": "99"},
+    "Join_date": {"S": "1997-05-3"}
   }
 }
-  {
-    "course_id": {"S": "1"},
-    "course_name": {"S": "Python for Beginners"},
-    "instructor": {"S": "John Doe"},
-    "platform": {"S": "Udemy"},
-    "category": {"S": "Programming"},
-    "duration_hours": {"N": "12.5"},
-    "price": {"N": "19.99"},
-    "rating": {"N": "4.6"},
-    "enrollment_count": {"N": "15000"},
-    "release_date": {"S": "2023-01-15"}
-  },
-  {
-    "course_id": {"S": "2"},
-    "course_name": {"S": "Data Science Essentials"},
-    "instructor": {"S": "Jane Smith"},
-    "platform": {"S": "Coursera"},
-    "category": {"S": "Data Science"},
-    "duration_hours": {"N": "20.0"},
-    "price": {"N": "49.99"},
-    "rating": {"N": "4.7"},
-    "enrollment_count": {"N": "25000"},
-    "release_date": {"S": "2022-11-10"}
-  },
-  {
-    "course_id": {"S": "3"},
-    "course_name": {"S": "Machine Learning Basics"},
-    "instructor": {"S": "Andrew Ng"},
-    "platform": {"S": "Coursera"},
-    "category": {"S": "AI/ML"},
-    "duration_hours": {"N": "15.0"},
-    "price": {"N": "0.00"},
-    "rating": {"N": "4.8"},
-    "enrollment_count": {"N": "50000"},
-    "release_date": {"S": "2021-09-01"}
-  },
-  {
-    "course_id": {"S": "4"},
-    "course_name": {"S": "Web Development Bootcamp"},
-    "instructor": {"S": "Colt Steele"},
-    "platform": {"S": "Udemy"},
-    "category": {"S": "Web Development"},
-    "duration_hours": {"N": "40.0"},
-    "price": {"N": "29.99"},
-    "rating": {"N": "4.5"},
-    "enrollment_count": {"N": "30000"},
-    "release_date": {"S": "2023-03-20"}
-  },
-  {
-    "course_id": {"S": "5"},
-    "course_name": {"S": "Digital Marketing 101"},
-    "instructor": {"S": "Google Digital Garage"},
-    "platform": {"S": "Google"},
-    "category": {"S": "Marketing"},
-    "duration_hours": {"N": "10.0"},
-    "price": {"N": "0.00"},
-    "rating": {"N": "4.4"},
-    "enrollment_count": {"N": "40000"},
-    "release_date": {"S": "2022-05-05"}
-  },
-  {
-    "course_id": {"S": "6"},
-    "course_name": {"S": "Advanced JavaScript"},
-    "instructor": {"S": "Kyle Simpson"},
-    "platform": {"S": "Frontend Masters"},
-    "category": {"S": "Web Development"},
-    "duration_hours": {"N": "18.0"},
-    "price": {"N": "39.99"},
-    "rating": {"N": "4.9"},
-    "enrollment_count": {"N": "12000"},
-    "release_date": {"S": "2023-07-01"}
-  },
-  {
-    "course_id": {"S": "7"},
-    "course_name": {"S": "Cybersecurity Fundamentals"},
-    "instructor": {"S": "Mike Chapple"},
-    "platform": {"S": "LinkedIn Learning"},
-    "category": {"S": "Cybersecurity"},
-    "duration_hours": {"N": "8.5"},
-    "price": {"N": "24.99"},
-    "rating": {"N": "4.3"},
-    "enrollment_count": {"N": "18000"},
-    "release_date": {"S": "2023-02-14"}
-  },
-  {
-    "course_id": {"S": "8"},
-    "course_name": {"S": "React Native for Beginners"},
-    "instructor": {"S": "Maximilian Schwarzmüller"},
-    "platform": {"S": "Udemy"},
-    "category": {"S": "Mobile Development"},
-    "duration_hours": {"N": "14.0"},
-    "price": {"N": "22.99"},
-    "rating": {"N": "4.7"},
-    "enrollment_count": {"N": "22000"},
-    "release_date": {"S": "2023-05-10"}
-  },
-  {
-    "course_id": {"S": "9"},
-    "course_name": {"S": "Cloud Computing Basics"},
-    "instructor": {"S": "AWS Training"},
-    "platform": {"S": "AWS"},
-    "category": {"S": "Cloud Computing"},
-    "duration_hours": {"N": "6.0"},
-    "price": {"N": "0.00"},
-    "rating": {"N": "4.6"},
-    "enrollment_count": {"N": "35000"},
-    "release_date": {"S": "2022-12-01"}
-  },
-  {
-    "course_id": {"S": "10"},
-    "course_name": {"S": "UI/UX Design Fundamentals"},
-    "instructor": {"S": "Sarah Drasner"},
-    "platform": {"S": "Pluralsight"},
-    "category": {"S": "Design"},
-    "duration_hours": {"N": "9.0"},
-    "price": {"N": "29.99"},
-    "rating": {"N": "4.5"},
-    "enrollment_count": {"N": "14000"},
-    "release_date": {"S": "2023-04-22"}
-  }
-]
