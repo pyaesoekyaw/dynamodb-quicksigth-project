@@ -1,4 +1,35 @@
-[
+{
+  "studentid": {
+    "S": "1"
+  },
+  "Computer_science": {
+    "N": "75"
+  },
+  "English": {
+    "N": "80"
+  },
+  "Intership": {
+    "N": "40"
+  },
+  "Join_date": {
+    "S": "2024-01-15"
+  },
+  "Mathematic": {
+    "N": "90"
+  },
+  "Myanmar": {
+    "N": "48"
+  },
+  "Networking": {
+    "N": "99"
+  },
+  "Operating_System": {
+    "N": "64"
+  },
+  "Student_name": {
+    "S": "Pyae Kkyaw"
+  }
+}
   {
     "course_id": {"S": "1"},
     "course_name": {"S": "Python for Beginners"},
